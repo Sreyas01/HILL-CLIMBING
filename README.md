@@ -144,6 +144,8 @@ SimpleHillClimbing()
 
 ## OUTPUT:
 <img width="1067" height="806" alt="image" src="https://github.com/user-attachments/assets/cb7bb611-035d-4e31-ba55-2787a9241f84" />
+<img width="1011" height="777" alt="image" src="https://github.com/user-attachments/assets/bfd7ca87-e21c-4339-8b95-d43caeb8641c" />
+
 
 ## RESULT:
 <p>Thus the implementation of simple hill climbing algorithm and generating a string by mutating a single character at eaxh iteration is successful</p>
